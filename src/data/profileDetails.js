@@ -1,4 +1,5 @@
 export const profileDetails = [
+  // Team Jimmy The Giraffe?  
   {
     nickName: "Ihsan",
     fullName: "Ihsan Naufal Azhima",
@@ -70,5 +71,66 @@ export const profileDetails = [
     github: "https://www.github.com/",
     twitter: "https://twitter.com/",
     instagram: "https://instagram.com/",
+  },
+  // Team BeeMath
+  {
+    nickName: "Cinta",
+    fullName: "Cinta Arrini Callula",
+    bio: "UX Researcher & Game Content Writer",
+    github: "https://github.com/lovelylove7980",
+    twitter: "https://twitter.com/",
+    instagram: "https://instagram.com/c_.ntaaa",
+  },
+  {
+    nickName: "Nisa",
+    fullName: "Fahrunnisa Kusumawardani",
+    bio: "UI & Asset designer",
+    github: "https://www.github.com/fhrnisa",
+    twitter: "https://twitter.com/",
+    instagram: "https://instagram.com/fhrnns.k_",
+  },
+  {
+    nickName: "Lila",
+    fullName: "Nirianda Kaylila Anindhita Ramadhanti",
+    bio: "UI Designer & Game Content Writer",
+    github: "https://github.com/375ayara",
+    twitter: "https://twitter.com/",
+    instagram: "https://instagram.com/_kayaraa",
+  },
+  {
+    nickName: "Zaskia",
+    fullName: "Zaskia Vadya Arminati Yoana",
+    bio: "Project Manager & UI/UX Designer ",
+    github: "https://www.github.com/Vvadyya",
+    twitter: "https://twitter.com/zvayxx",
+    instagram: "https://instagram.com/zskvadyaa",
+  },
+  {
+    nickName: "Jasmine",
+    fullName: "Jasmine Elvarita Sahasika",
+    bio: "Game Developer.",
+    github: "https://www.github.com/jasmineelvarita",
+    instagram: "https://instagram.com/bloopmine",
+  },
+  {
+    nickName: "Dilla",
+    fullName: "Fadhila Rachmasari Nurmastika",
+    bio: "Game Developer.",
+    github: "https://www.github.com/dilla-hash",
+    instagram: "https://instagram.com/dumplisyyyy",
+  },
+  {
+    nickName: "Echi",
+    fullName: "Hafizhah Chelsea Cahyani",
+    bio: "Game Developer.",
+    github: "https://www.github.com/hafizhahchelsea",
+    instagram: "https://instagram.com/hhchsa_",
+  },
+  {
+    nickName: "Salwa",
+    fullName: "Salwa Rosyita Maharani",
+    bio: "Game Developer.",
+    github: "https://www.github.com/rosyitasalwa",
+    instagram: "https://instagram.com/salwa.rosyita",
   },
 ];
