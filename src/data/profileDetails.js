@@ -10,7 +10,7 @@ export const profileDetails = [
   {
     nickName: "Putra",
     fullName: "Muhammad Putra Darmawan",
-    bio: "Explorer of new technologies and coding realms. Transforming ideas into lines of code. Always in pursuit of the next coding adventure.",
+    bio: "Explorer of new technologies an ssdasnlnkjdfwkandwakfawkd coding realms. Transforming ideas into lines of code. Always in pursuit of the next coding adventure.",
     github: "https://www.github.com/MuhammadPutra99",
     twitter: "https://twitter.com/",
     instagram: "https://instagram.com/",
