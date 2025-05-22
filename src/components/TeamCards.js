@@ -7,7 +7,7 @@ const TeamCards = () => {
   return (
     <div className="min-h-screen bg-gray-900 py-10 px-4">
       <h1 className="text-3xl font-bold text-white text-center mb-10">
-        Our Team
+        🚀 XI PPLG 2
       </h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 justify-items-center">
         {profileDetails.map((profile, index) => (
