@@ -1,7 +1,7 @@
 export const profileDetails = [
   {
     nickName: "DevMaster",
-    fullName: "Alex Codington",
+    fullName: "Alex Codingto",
     bio: "Passionate developer with a knack for turning caffeine into code. Creating digital wonders and solving problems with elegant solutions.",
     github: "https://www.github.com/",
     twitter: "https://twitter.com/",
